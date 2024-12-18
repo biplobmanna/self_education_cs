@@ -1,5 +1,14 @@
 Education refers to not learning but discovery, self-discovery. To not only know, but to understand. That's what it means to be truly educated.
 
+This is my pursue of a CS Engineering course despite having a valid CS degree for various reasons, some of which are:
+
+1. Refresher of all the things learnt in college
+2. Spend time to fill in the gaps in knowledge on topics I skipped out on
+3. Spend time to delve deeper into topics of interest
+4. Be more knowledgeable in CS than I currently am
+5. Cultivate learning as a skill and a way of life
+
+
 ## Resource Links
 
 1. [Computer science curriculum with a focus on the lower level.](https://github.com/m0r4a/awesome-MIT-OCW)
